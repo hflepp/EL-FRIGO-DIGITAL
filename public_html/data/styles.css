@@ -14,6 +14,8 @@
 }
 .box_3 {
 }
+.shape {
+}
 .image {
 }
 .primary_button {
@@ -73,6 +75,10 @@
 }
 .checkbox {
   text-align:left;
+}
+.flow_shape {
+}
+.table_cell {
 }
 .form_hint {
   color:#999999;
